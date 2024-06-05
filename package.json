@@ -1,0 +1,24 @@
+{
+    "name": "hyper-system-theme",
+    "version": "1.0.0",
+    "description": "Switch between light and dark themes based on your OS settings",
+    "main": "src/index.js",
+    "keywords": [
+        "hyper",
+        "theme",
+        "system",
+        "light",
+        "dark",
+        "mode"
+    ],
+    "author": "Adrian Covaci <hello@adriancovaci.dev> (https://github.com/acovaci)",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/acovaci/hyper-system-theme-plugin.git"
+    },
+    "bugs": {
+        "url": "https://github.com/acovaci/hyper-system-theme-plugin/issues"
+    },
+    "homepage": "https://github.com/acovaci/hyper-system-theme-plugin#readme"
+}
