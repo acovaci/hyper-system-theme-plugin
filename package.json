@@ -9,7 +9,8 @@
         "system",
         "light",
         "dark",
-        "mode"
+        "mode",
+        "plugin"
     ],
     "author": "Adrian Covaci <hello@adriancovaci.dev> (https://github.com/acovaci)",
     "license": "MIT",
