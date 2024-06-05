@@ -19,6 +19,12 @@ and this project adheres to [Semantic Versioning].
 
 ### Security
 
+## [1.1.0] - 2024-06-05
+
+### Fixed
+
+- wrong key in documentation
+
 ## [1.0.0] - 2024-06-05
 
 ### Added
@@ -31,4 +37,5 @@ and this project adheres to [Semantic Versioning].
 
 <!-- Versions -->
 [unreleased]: https://github.com/acovaci/hyper-system-theme-plugin/compare/v0.0.1...HEAD
-[0.0.1]: https://github.com/acovaci/hyper-system-theme-plugin/releases/tag/v0.0.1
+[1.0.1]: https://github.com/acovaci/hyper-system-theme-plugin/compare/v1.0.0..v1.0.1
+[1.0.0]: https://github.com/acovaci/hyper-system-theme-plugin/releases/tag/v1.0.0
