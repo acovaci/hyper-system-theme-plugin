@@ -25,10 +25,10 @@ module.exports = {
 
 The plugin will expose two new configuration options in your `~/.hyper.js` configuration file:
 
-- `lightThemeOverrides`: an object containing the config overrides for the light theme
-- `darkThemeOverrides`: an object containing the config overrides for the dark theme
+- `lightConfigOverrides`: an object containing the config overrides for the light theme
+- `darkConfigOverrides`: an object containing the config overrides for the dark theme
 
-The keys in the `lightThemeOverrides` and `darkThemeOverrides` objects will override the default
+The keys in the `lightConfigOverrides` and `darkConfigOverrides` objects will override the default
 Hyper configuration options. 
 
 ### Example
@@ -36,13 +36,13 @@ Hyper configuration options.
 ```javascript
 module.exports = {
   ...
-  lightThemeOverrides: {
+  lightConfigOverrides: {
     backgroundColor: '#fff',
     foregroundColor: '#000',
     cursorColor: '#000',
     borderColor: '#fff',
   },
-  darkThemeOverrides: {
+  darkConfigOverrides: {
     backgroundColor: '#000',
     foregroundColor: '#fff',
     cursorColor: '#fff',
