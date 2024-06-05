@@ -19,7 +19,7 @@ and this project adheres to [Semantic Versioning].
 
 ### Security
 
-## [1.1.0] - 2024-06-05
+## [1.0.1] - 2024-06-05
 
 ### Fixed
 
