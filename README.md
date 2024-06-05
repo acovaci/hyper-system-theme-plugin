@@ -1,8 +1,8 @@
 # System Theme Hyper Plugin
 
-![NPM Version](https://img.shields.io/npm/v/hyper-system-theme-plugin)
-![NPM Downloads](https://img.shields.io/npm/dt/hyper-system-theme-plugin)
-![NPM License](https://img.shields.io/npm/l/hyper-system-theme-plugin)
+![NPM Version](https://img.shields.io/npm/v/hyper-system-theme)
+![NPM Downloads](https://img.shields.io/npm/dt/hyper-system-theme)
+![NPM License](https://img.shields.io/npm/l/hyper-system-theme)
 
 This plugin allows you to change the [Hyper](https://hyper.is) terminal emulator theme based on the
 system theme. When the system theme changes, the window gets reloaded and the new theme is applied.
@@ -11,12 +11,12 @@ system theme. When the system theme changes, the window gets reloaded and the ne
 
 ## Installation
 
-Add `hyper-system-theme-plugin` to the plugins list in your `~/.hyper.js` configuration file.
+Add `hyper-system-theme` to the plugins list in your `~/.hyper.js` configuration file.
 
 ```javascript
 module.exports = {
   ...
-  plugins: ['hyper-system-theme-plugin'],
+  plugins: ['hyper-system-theme'],
   ...
 };
 ```
