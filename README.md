@@ -3,6 +3,8 @@
 This plugin allows you to change the [Hyper](https://hyper.is) terminal emulator theme based on the
 system theme. When the system theme changes, the window gets reloaded and the new theme is applied.
 
+![hyper-system-theme](https://github.com/acovaci/hyper-system-theme-plugin/assets/6562353/c0065eef-7d4b-4719-a715-3f8994b2c273)
+
 ## Installation
 
 Add `hyper-system-theme-plugin` to the plugins list in your `~/.hyper.js` configuration file.
